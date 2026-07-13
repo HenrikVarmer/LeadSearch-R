@@ -1,5 +1,9 @@
 # LeadSearch
 
+> [!NOTE]
+> **The primary, actively developed version is now the Python package [`leadsearch`](https://github.com/HenrikVarmer/leadsearch)** — with e-mail intelligence and result scoring. This repository is the original R implementation.
+
+
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/HenrikVarmer/LeadSearch/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HenrikVarmer/LeadSearch/actions/workflows/R-CMD-check.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
