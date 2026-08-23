@@ -5,7 +5,7 @@
 
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/HenrikVarmer/LeadSearch/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HenrikVarmer/LeadSearch/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/HenrikVarmer/LeadSearch-R/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HenrikVarmer/LeadSearch-R/actions/workflows/R-CMD-check.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 <!-- badges: end -->
 
@@ -18,7 +18,7 @@ Install the package directly from github with devtools. Run the first line if yo
 
 ```R
 # install.packages('devtools') 
-devtools::install_github('HenrikVarmer/LeadSearch')
+devtools::install_github('HenrikVarmer/LeadSearch-R')
 ```
 ### Using the functions
 There's one primary function in this package: lead_search()
